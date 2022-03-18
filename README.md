@@ -1,27 +1,39 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fwzdQBbRQd7lOZnK1j/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
  <div id="badges">
   <a href="https://t.me/tima0902"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
   <a href="https://www.instagram.com/soldatov_tima/"><img src="https://img.shields.io/badge/Instagram-indigo?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   </div>
   <h1>
-  Hello
+  Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-<!--
-**timaS0902/timaS0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/wIVCkv3bcsBwFyESSC/giphy.gif" width="350" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: About Me :
+I am a Java Developer <img src="https://media.giphy.com/media/Lg6vO9CNlQmUna1c5i/giphy.gif" width="30"> from Uzbekistan.
+- :telescope: I’m studying at INHA University in Tashkent.
+
+- :computer: Exploring Computer and Information Sciences.
+
+- :zap: In my free time, I solve problems on LeetCode and read articles about AI.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Click_Me-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/timur-soldatov-83136020b)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu"  alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
